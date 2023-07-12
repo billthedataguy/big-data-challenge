@@ -1,7 +1,7 @@
 # big-data-challenge
 ## Analysis of Amazon Vine Reviews Using Spark
 
-## William Vann Homework #22
+## William Vann 
 
 ## Files
 
